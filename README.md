@@ -49,6 +49,9 @@ Achieved an **86% average** in Semester 1 of the Wits Postgraduate Diploma in Da
 - Scikit-Learn
 
 ---
+## 🚀 Featured Technologies
+
+Python | Pandas | NumPy | Scikit-Learn | Excel | SQL | Power BI | Git | GitHub
 
 ## 📂 Featured Projects
 
@@ -99,3 +102,9 @@ www.linkedin.com/in/sekelwa-gumenke-323478171
 
 🔗 GitHub:
 https://github.com/01gumenkesekelwa-cpu
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01gumenkesekelwa-cpu&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01gumenkesekelwa-cpu&layout=compact)
