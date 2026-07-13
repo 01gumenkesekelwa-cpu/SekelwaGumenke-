@@ -105,6 +105,6 @@ https://github.com/01gumenkesekelwa-cpu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01gumenkesekelwa-cpu&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01gumenkesekelwa-cpu&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01gumenkesekelwa-cpu&layout=compact)
