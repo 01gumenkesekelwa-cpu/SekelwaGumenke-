@@ -2,7 +2,7 @@
 
 # Hi, I'm Sekelwa Gumenke 👋
 
-🎓 Postgraduate Diploma in Data Science Candidate at Wits University
+🎓 Postgraduate Diploma in Data Science Student at Wits University
 
 I am a data science student with a background in Mathematics, Information Technology, and Education. I enjoy using data to solve real-world problems through analytics, machine learning, and data engineering.
 
