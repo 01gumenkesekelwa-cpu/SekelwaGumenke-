@@ -9,7 +9,15 @@ I am a data science student with a background in Mathematics, Information Techno
 My portfolio focuses on transforming raw data into meaningful insights that support decision-making and improve outcomes.
 
 ---
+## 🏆 Recent Achievement
 
+Achieved an **86% average** in Semester 1 of the Wits Postgraduate Diploma in Data Science, including coursework in:
+
+- Mathematical & Statistical Foundations of Data Science
+- Programming for Data Scientists
+- Applied Machine Learning
+- Data Science in Practice
+---
 ## 🔧 Technical Skills
 
 ### Programming & Analytics
